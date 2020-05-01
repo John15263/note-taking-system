@@ -1,12 +1,12 @@
 # note-taking-system
 
-## 一个笔记系统——如何把MarginNote3, DEVONThink3, TheBrain11 和 nvALT当一个App使用 
+### 一个笔记系统——如何把MarginNote3, DEVONThink3, TheBrain11 和 nvALT当一个App使用 
 https://www.bilibili.com/video/BV147411A7CP/
 
-## John的阅读工作流的第一步——信息从MarginNote3流入nvALT
+### John的阅读工作流的第一步——信息从MarginNote3流入nvALT
 https://www.bilibili.com/video/BV1M7411w7bv/
 
-## John的阅读工作流的第二步——概念的诞生
+### John的阅读工作流的第二步——概念的诞生
 https://www.bilibili.com/video/BV1z7411F7Vf/
 
 
