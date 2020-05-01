@@ -183,3 +183,5 @@ And finally the quality without a name appears, not when an isolated pattern liv
 
 
 最后在说一点，为什么我之前的知识管理系统都是仓库模式，我想这里的关键可能不在于技术Technology，而是文化culture，是看不见的东西，正如刘勃麟隐形在其中的这面墙，我们生活在很多日用而不自知的文化之中，我是说pedagogy，现有的一切秩序都是围绕着将学习者定位为信息的接受者，而不是创造者，学习者是不被尊重的，被视为是懒惰而没有目标的，需要接受训练的，是应该被操纵和控制的。学习者应该把自己解放出来，他们不应该允许自己被视作各种解决方案的存储器，不应该允许自己被视作一个被数据训练的神经网络。学习者应该是值得尊重的，创造新的可能性的人。他们不压迫其他人，而是解放其他人。
+
+https://mp.weixin.qq.com/s?__biz=MzI4MTA2MDg5Mw==&mid=2651271080&idx=1&sn=30448f0bd565230d9f03512ee615de0d&chksm=f05d7cdac72af5cc089b1215a59696c326aac52bc0d463f70e990184f7d132536c9b51e33e60&token=1834921829&lang=zh_CN#rd
